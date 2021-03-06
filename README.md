@@ -5,6 +5,7 @@ There are three datasets given for this competition. They are :-
 1)	train.tsv.7z – A compressed 7z tab separated file of size 74.3 MB which when uncompressed becomes close to 329 MB.
 2)	test.tsv.7z – A compressed 7z tab separated file of size 33.97 MB which when uncompressed becomes close to 150 MB.
 3)	test_stg2.tsv.zip – A compressed 7z tab separated file of size 294.37 MB which when uncompressed becomes close to 736 MB.
+
 I am not able to upload intermediate files here because of the file size. There is a .hdf5 file for the best model weights which I am not able to upload because of the size of the file.
 You can download the EDA, the first cut model solutions file which is Mercari_Price_Suggestion_Challenge_Models_with_DL.ipynb and the final model solution file which is Mercari_Price_Suggestion_Challenge_Prediction_Improved_Models_17022021.ipynb
 The final.ipynb consists of two functions for predicting one unseen data point and another one for calculating the metrics.
